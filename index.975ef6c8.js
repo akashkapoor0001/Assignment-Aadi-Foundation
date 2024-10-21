@@ -28643,7 +28643,7 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/Akash_pic.png":"fhzNn"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/Akash_pic.png":"fhzNn","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"fhzNn":[function(require,module,exports) {
@@ -28743,6 +28743,7 @@ const Portfolio = ()=>{
                                 height: "90%",
                                 width: "100%",
                                 objectFit: "cover",
+                                animation: "1s ease-out 0s 1 slideInLeft",
                                 marginBottom: "250px"
                             },
                             alt: imageAltText
@@ -28836,7 +28837,7 @@ $RefreshReg$(_c, "Portfolio");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/portfolio.png":"kCuY7","../images/GeoTagging.png":"4yw5Y","../images/GCE.png":"5S5Uc","../images/CodeCollab.png":"bG30z","../images/TextOps.png":"jsCBj"}],"kCuY7":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/portfolio.png":"kCuY7","../images/GeoTagging.png":"4yw5Y","../images/GCE.png":"5S5Uc","../images/CodeCollab.png":"bG30z","../images/TextOps.png":"jsCBj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"kCuY7":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "portfolio.d9e55617.png" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"4yw5Y":[function(require,module,exports) {
