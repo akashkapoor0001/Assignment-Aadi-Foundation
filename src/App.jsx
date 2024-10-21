@@ -27,9 +27,9 @@ const siteProps = {
   name: "Akash Kapoor",
   title: "Mern Stack & C++ Developer",
   email: "akashkapoor976@gmail.com",
-  gitHub: "https://github.com/akashkapoor0001",
-  instagram: "https://www.instagram.com/akashkapoor__?igsh=MTR5MWdzZ3h0Y3NoYg==",
-  linkedIn: "https://www.linkedin.com/in/akash-kapoor-025733230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  gitHub: "akashkapoor0001",
+  instagram: "akashkapoor__?igsh=MTR5MWdzZ3h0Y3NoYg==",
+  linkedIn: "akash-kapoor-025733230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 };
 
 const primaryColor = "#4E567E";
