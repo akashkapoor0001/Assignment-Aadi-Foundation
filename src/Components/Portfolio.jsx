@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/portfolio.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "GeoTagging",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The Public Camera GeoTagging Prototype is a cutting-edge project built using React, HTML, CSS, JavaScript, Node.js, and SQL, designed to revolutionize public camera surveillance systems. Featuring key functionalities such as the Access Videos button for seamless video playback, the Call Now button for direct communication with authorities, and the Live Camera button for real-time monitoring, this prototype offers unparalleled convenience and accessibility. Users can also view the camera location on the map, ensuring optimal surveillance and security.",
+    url: "https://r-geotagging.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "GitHub Commit Notifier (Extension)",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A browser extension designed to keep users updated with their GitHub collaborators' commits. Features include real-time notifications for new commits and the ability to add and track multiple GitHub users. The extension also includes a detailed commit viewer that highlights code changes and sensitive information.",
+    url: "https://github-commit-notifier-website.vercel.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Code Collaboration",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Introducing CodeCollab, a cutting-edge web application designed to facilitate seamless collaboration among developers in real-time. With CodeCollab, multiple users can effortlessly input text simultaneously, allowing for dynamic collaboration and enhanced productivity. Simply toggle the 'Collab It' button to initiate real-time collaboration, enabling users to debug code and work on projects together in a synchronized manner.",
+    url: "https://livecollaboration.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "TextOps",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Introducing TextOps, a dynamic and versatile text manipulation application developed using React.js. Users can effortlessly convert text to lowercase or uppercase, ensuring consistency and readability across documents. With the Clear Text feature, users can swiftly remove all content, providing a clean slate for new input.",
+    url: "https://akashkapoor0001.github.io/TextOPS/",
   },
 ];
 
