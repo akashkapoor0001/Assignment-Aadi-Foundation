@@ -26,10 +26,10 @@ import "./styles.css";
 const siteProps = {
   name: "Akash Kapoor",
   title: "Mern Stack & C++ Developer",
-  email: "akash@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  email: "akashkapoor976@gmail.com",
+  gitHub: "https://github.com/akashkapoor0001",
+  instagram: "https://www.instagram.com/akashkapoor__?igsh=MTR5MWdzZ3h0Y3NoYg==",
+  linkedIn: "https://www.linkedin.com/in/akash-kapoor-025733230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 };
 
 const primaryColor = "#4E567E";
